@@ -19,11 +19,11 @@ namespace string_Palinedrome
 			}
 			if(s2==s1)
 			{
-				Console.WriteLine("yes! string is palindeome :"+ s2);
+				Console.WriteLine("yes string is palindeome :"+ s2);
 			}
 			else
 			{
-				Console.WriteLine("No! string is not palindeome :" + s2);
+				Console.WriteLine("No string is not palindeome :" + s2);
 			}
 			Console.ReadLine();
 		}
