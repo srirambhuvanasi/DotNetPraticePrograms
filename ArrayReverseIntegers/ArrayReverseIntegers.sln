@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayReverseIntegers", "ArrayReverseIntegers\ArrayReverseIntegers.csproj", "{718C31FA-5453-4694-B3DF-32036131DE11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{718C31FA-5453-4694-B3DF-32036131DE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718C31FA-5453-4694-B3DF-32036131DE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718C31FA-5453-4694-B3DF-32036131DE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718C31FA-5453-4694-B3DF-32036131DE11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C6827E-51D9-40F2-877B-89A5038ABD75}
+	EndGlobalSection
+EndGlobal
